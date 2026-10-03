@@ -1,3 +1,7 @@
+## Teste do gráfico 
+<iframe width="100%" height="335" frameborder="0"
+  src="https://observablehq.com/embed/bac22c658b57a4c3@223?cells=exe1"></iframe>
+
 ## Aula do dia 09/09/2026
 
 ### Exemplos vistos em aula
